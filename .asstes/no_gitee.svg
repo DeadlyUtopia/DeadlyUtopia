@@ -1,0 +1,28 @@
+<svg width="75" height="20" xmlns="http://www.w3.org/2000/svg" aria-label="No Gitee" role="img">
+ <title>No Gitee</title>
+ <defs>
+  <linearGradient y2="100%" x2="0" id="s">
+   <stop stop-opacity="0.1" stop-color="#bbb" offset="0"/>
+   <stop stop-opacity="0.1" offset="1"/>
+  </linearGradient>
+ </defs>
+ <clipPath id="r">
+  <rect id="svg_1" fill="#fff" rx="3" height="20" width="75"/>
+ </clipPath>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_2" clip-path="url(#r)">
+   <rect id="svg_3" fill="#555" height="20" width="0"/>
+   <rect id="svg_4" fill="#bf0000" height="20" width="75" x="0"/>
+   <rect id="svg_5" fill="url(#s)" height="20" width="75"/>
+  </g>
+  <ellipse stroke-width="2" stroke="#000" ry="7.78125" rx="7.78125" id="svg_11" cy="9.92709" cx="12.13542" fill="#fff"/>
+  <ellipse stroke="null" ry="5.15625" rx="5.15625" id="svg_12" cy="9.80209" cx="11.69792" fill="#bf0000"/>
+  <g id="svg_6" font-size="110" text-rendering="geometricPrecision" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-anchor="middle" fill="#fff">
+   <image id="svg_7" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0ZWU8L3RpdGxlPjxwYXRoIGQ9Ik0xMS45ODQgMEExMiAxMiAwIDAgMCAwIDEyYTEyIDEyIDAgMCAwIDEyIDEyIDEyIDEyIDAgMCAwIDEyLTEyQTEyIDEyIDAgMCAwIDEyIDBhMTIgMTIgMCAwIDAtLjAxNiAwem02LjA5IDUuMzMzYy4zMjggMCAuNTkzLjI2Ni41OTIuNTkzdjEuNDgyYS41OTQuNTk0IDAgMCAxLS41OTMuNTkySDkuNzc3Yy0uOTgyIDAtMS43NzguNzk2LTEuNzc4IDEuNzc4djUuNjNjMCAuMzI3LjI2Ni41OTIuNTkzLjU5Mmg1LjYzYy45ODIgMCAxLjc3OC0uNzk2IDEuNzc4LTEuNzc4di0uMjk2YS41OTMuNTkzIDAgMCAwLS41OTItLjU5M2gtNC4xNWEuNTkyLjU5MiAwIDAgMS0uNTkyLS41OTJ2LTEuNDgyYS41OTMuNTkzIDAgMCAxIC41OTMtLjU5Mmg2LjgxNWMuMzI3IDAgLjU5My4yNjUuNTkzLjU5MnYzLjQwOGE0IDQgMCAwIDEtNCA0SDUuOTI2YS41OTMuNTkzIDAgMCAxLS41OTMtLjU5M1Y5Ljc3OGE0LjQ0NCA0LjQ0NCAwIDAgMSA0LjQ0NS00LjQ0NGg4LjI5NloiLz48L3N2Zz4=" height="14" width="14" y="3" x="5"/>
+   <text id="svg_8" textLength="470" transform="translate(0.0625 0) scale(0.1 0.1)" fill-opacity="0.3" fill="#010101" y="150" x="465" aria-hidden="true">No Gitee</text>
+   <text id="svg_9" textLength="470" fill="#fff" transform="translate(0.0625 0) scale(0.1 0.1)" y="140" x="465">No Gitee</text>
+  </g>
+  <line stroke-width="2" stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_10" y2="15.73807" x2="17.72917" y1="4.09135" x1="6.29167" fill="none"/>
+ </g>
+</svg>
